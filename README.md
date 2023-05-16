@@ -45,7 +45,7 @@ python main.py
 
 ## Screenshots
 
-![Weather Detector Screenshot](screenshots/screenshot.png)
+![Weather Detector Screenshot](maxresdefault.jpg)
 
 ## Contributing
 
