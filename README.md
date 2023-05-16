@@ -41,9 +41,7 @@ python main.py
 
 2. Enter the city name in the provided input field.
 3. Click the "Get Weather" button to retrieve the weather information.
-4. The current weather conditions will be displayed, along with the weather icon.
-5. Scroll down to see the 5-day forecast for the selected city.
-6. Use the radio buttons to switch between metric and imperial units.
+4. The current weather conditions will be displayed, along with the weather icon
 
 ## Screenshots
 
